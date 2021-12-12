@@ -1,0 +1,2 @@
+module effective_search {
+}
